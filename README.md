@@ -30,11 +30,28 @@
   <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>
   </div>
 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasC572&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<hr>
+
+### CONNECT WITH ME :- 
+
+<div align="left">
+     <a href="https://www.linkedin.com/in/suhas-c-prabhu-963398211/" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
+            width="40" /></a>
+     <a href="https://www.instagram.com/spice_.of_life/" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
+                                                                             width="40" /></a>
+    </div>
 
 
 
