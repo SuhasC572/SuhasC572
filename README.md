@@ -52,7 +52,7 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
                                                                              width="40" /></a>
     <a href="https://www.facebook.com/people/Suhas-C/100079621551221/" target="blank"><img align="center"
-            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ffacebook-circular-logo_20673&psig=AOvVaw16M21_MFjVlGZmq8L7dzHX&ust=1648557791147000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODlo8Lq6PYCFQAAAAAdAAAAABAD" alt="instagram" height="30"
+            src="http://i.imgur.com/P3YfQoD.png" alt="instagram" height="30"
                                                                              width="40" /></a>
     </div>
 
