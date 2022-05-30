@@ -70,13 +70,19 @@
 
 <div align="left">
      <a href="https://www.linkedin.com/in/suhas-c-prabhu-963398211/" target="blank"><img align="center"
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30"
              /></a>
      <a href="https://www.instagram.com/_c_suhas_572_/" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" height="30"
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"
                                                                               /></a>
     <a href="https://www.facebook.com/people/Suhas-C/100079621551221/" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="instagram" height="30"
+            src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="30"
+                                                                              /></a>
+    <a href="https://www.reddit.com/user/Reasonable_Dare_724" target="blank"><img align="center"
+            src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="30"
+                                                                              /></a>
+    <a href="https://t.me/suhasc572" target="blank"><img align="center"
+            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"
                                                                               /></a>
     </div>
 
