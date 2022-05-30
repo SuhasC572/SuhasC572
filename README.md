@@ -70,14 +70,14 @@
 
 <div align="left">
      <a href="https://www.linkedin.com/in/suhas-c-prabhu-963398211/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
-            width="40" /></a>
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"
+             /></a>
      <a href="https://www.instagram.com/_c_suhas_572_/" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
-                                                                             width="40" /></a>
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" height="30"
+                                                                              /></a>
     <a href="https://www.facebook.com/people/Suhas-C/100079621551221/" target="blank"><img align="center"
-            src="http://i.imgur.com/P3YfQoD.png" alt="instagram" height="30"
-                                                                             width="40" /></a>
+            src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="instagram" height="30"
+                                                                              /></a>
     </div>
 
 
