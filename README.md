@@ -33,6 +33,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
+    <a  target="_blank" title ="JavaScript"> <img
+            src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+            alt="Visual Studio" width="40" height="40" /> </a>
+
   </div>
 
 <hr>
