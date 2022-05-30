@@ -42,6 +42,21 @@
 
   </div>
   
+  ## OPERATING SYSTEM
+<div align="left">
+    <a  target="_blank" title ="Android"> <img
+            src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+            alt="Android"  height="40" /> </a>
+    <a  target="_blank" title ="Linux"> <img
+            src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+            alt="Linux"  height="40" /> </a>
+    <a  target="_blank" title ="Windows"> <img
+            src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+            alt="Windows"  height="40" /> </a>
+    <a  target="_blank" title ="Ubuntu"> <img
+            src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+            alt="Ubuntu"  height="40" /> </a>
+  </div>
   
 
 <hr>
