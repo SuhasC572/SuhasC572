@@ -30,9 +30,6 @@
     <a  target="_blank" title ="Html5"> <img
             src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
             alt="Html5"  height="40" /> </a>
-    <a  target="_blank" title ="Html5"> <img
-            src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-            alt="Html5"  height="40" /> </a>
     <a  target="_blank" title ="Javascript"> <img
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
             alt="Javascript"  height="40" /> </a>
