@@ -77,12 +77,6 @@
     <a href="https://www.facebook.com/people/Suhas-C/100079621551221/" target="blank"><img align="center"
             src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="30"
                                                                               /></a>
-    <a href="https://www.reddit.com/user/Reasonable_Dare_724" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="30"
-                                                                              /></a>
-    <a href="https://t.me/suhasc572" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"
-                                                                              /></a>
     </div>
 
 
