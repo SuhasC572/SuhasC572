@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Javascript and Bootstrap.
 - 🤔 I’m looking for help with Design and User interface of the Websites.
 - 💬 Ask me about anything. If I know it I will answer, If I don't I will GOOGLE it.
-- 📫 You can reach me at suhasc572@gmail.com or ytsuhas572@gmail.com
+- 📫 You can reach me at suhasc572@gmail.com 
 
 <hr>
 
